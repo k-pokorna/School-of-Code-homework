@@ -294,8 +294,7 @@
 /* Responzivita od 538px */
 
 @media (max-width: 538px) {
-    .people h2 {
-        margin-top: 400px;
+    .payment {
+        height: 768px;
     }
-
 }
