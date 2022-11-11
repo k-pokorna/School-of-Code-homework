@@ -295,6 +295,10 @@
 
 @media (max-width: 538px) {
     .payment {
-        height: 768px;
+        height: 3000px;
+    }
+
+    .people h2 {
+        margin-top: 800px;
     }
 }
